@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent": "BedroomLightOn"
+    },
+    {
+      "intent": "BedroomLightOff"
+    },
+    {
+      "intent": "KitchenLightOn"
+    },
+    {
+      "intent": "KitchenLightOff"
+    },
+    {
+      "intent": "BathroomLightOn"
+    },
+    {
+      "intent": "BathroomLightOff"
+    },
+    {
+      "intent": "BedroomFanOn"
+    },
+    {
+      "intent": "BedroomFanOff"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }

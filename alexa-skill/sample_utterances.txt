@@ -1,0 +1,302 @@
+BedroomLightOn on bedroom light
+BedroomLightOn turn on bedroom light
+BedroomLightOn turn on my bedroom light
+BedroomLightOn turn on the bedroom light
+BedroomLightOn on bedroom lamp
+BedroomLightOn turn on bedroom lamp
+BedroomLightOn turn on my bedroom lamp
+BedroomLightOn turn on the bedroom lamp
+BedroomLightOn turn the bedroom lamp on
+BedroomLightOn turn the bedroom light on
+BedroomLightOn turn my bedroom lamp on
+BedroomLightOn turn my bedroom light on
+BedroomLightOn bedroom light on
+BedroomLightOn bedroom lamp on
+BedroomLightOn make the bedroom lamp on
+BedroomLightOn make the bedroom light on
+BedroomLightOn make my bedroom lamp on
+BedroomLightOn make my bedroom light on
+BedroomLightOn make bedroom lamp on
+BedroomLightOn make bedroom light on
+BedroomLightOn switch on the bedroom light
+BedroomLightOn switch on the bedroom lamp
+BedroomLightOn switch on my bedroom light
+BedroomLightOn switch on my bedroom lamp
+BedroomLightOn switch on bedroom light
+BedroomLightOn switch on bedroom lamp
+BedroomLightOn light my bedroom
+BedroomLightOn light the bedroom
+BedroomLightOn bright my bedroom
+BedroomLightOn bright the bedroom
+BedroomLightOn make bedroom bright
+BedroomLightOn i want light on my bedroom
+BedroomLightOn i want light on the bedroom
+
+
+BedroomLightOff off bedroom light
+BedroomLightOff turn off bedroom light
+BedroomLightOff turn off my bedroom light
+BedroomLightOff turn off the bedroom light
+BedroomLightOff off bedroom lamp
+BedroomLightOff turn off bedroom lamp
+BedroomLightOff turn off my bedroom lamp
+BedroomLightOff turn off the bedroom lamp
+BedroomLightOff turn the bedroom lamp off
+BedroomLightOff turn the bedroom light off
+BedroomLightOff turn my bedroom lamp off
+BedroomLightOff turn my bedroom light off
+BedroomLightOff bedroom light off
+BedroomLightOff bedroom lamp off
+BedroomLightOff make the bedroom lamp off
+BedroomLightOff make the bedroom light off
+BedroomLightOff make my bedroom lamp off
+BedroomLightOff make my bedroom light off
+BedroomLightOff make bedroom lamp off
+BedroomLightOff make bedroom light off
+BedroomLightOff switch off the bedroom light
+BedroomLightOff switch off the bedroom lamp
+BedroomLightOff switch off my bedroom light
+BedroomLightOff switch off my bedroom lamp
+BedroomLightOff switch off bedroom light
+BedroomLightOff switch off bedroom lamp
+BedroomLightOff dark my bedroom
+BedroomLightOff dark the bedroom
+BedroomLightOff keep my bedroom dark
+BedroomLightOff keep the bedroom dark
+BedroomLightOff make bedroom dark
+BedroomLightOff i want no light on my bedroom
+BedroomLightOff i want no light on the bedroom
+BedroomLightOff i want to sleep now
+BedroomLightOff i will sleep now
+BedroomLightOff i wanna sleep now
+BedroomLightOff i wanna sleep
+
+
+KitchenLightOn on kitchen light
+KitchenLightOn on my kitchen light
+KitchenLightOn on the kitchen light
+KitchenLightOn on the kitchen lamp
+KitchenLightOn on my kitchen lamp
+KitchenLightOn turn on kitchen light
+KitchenLightOn turn on my kitchen light
+KitchenLightOn turn on the kitchen light
+KitchenLightOn on kitchen lamp
+KitchenLightOn turn on kitchen lamp
+KitchenLightOn turn on my kitchen lamp
+KitchenLightOn turn on the kitchen lamp
+KitchenLightOn turn the kitchen lamp on
+KitchenLightOn turn the kitchen light on
+KitchenLightOn turn my kitchen lamp on
+KitchenLightOn turn my kitchen light on
+KitchenLightOn kitchen light on
+KitchenLightOn kitchen lamp on
+KitchenLightOn make the kitchen lamp on
+KitchenLightOn make the kitchen light on
+KitchenLightOn make my kitchen lamp on
+KitchenLightOn make my kitchen light on
+KitchenLightOn make kitchen lamp on
+KitchenLightOn make kitchen light on
+KitchenLightOn switch on the kitchen light
+KitchenLightOn switch on the kitchen lamp
+KitchenLightOn switch on kitchen light
+KitchenLightOn switch on kitchen lamp
+KitchenLightOn light my kitchen
+KitchenLightOn light the kitchen
+KitchenLightOn bright my kitchen
+KitchenLightOn bright the kitchen
+KitchenLightOn make kitchen bright
+KitchenLightOn i want light on my kitchen
+KitchenLightOn i want light on the kitchen
+KitchenLightOn i want to cook now
+KitchenLightOn i wanna cook now
+KitchenLightOn i will cook now
+KitchenLightOn i wanna cook
+KitchenLightOn i want to cook
+
+
+KitchenLightOff off kitchen light
+KitchenLightOff off my kitchen light
+KitchenLightOff off the kitchen light
+KitchenLightOff off the kitchen lamp
+KitchenLightOff off my kitchen lamp
+KitchenLightOff turn off kitchen light
+KitchenLightOff turn off my kitchen light
+KitchenLightOff turn off the kitchen light
+KitchenLightOff off kitchen lamp
+KitchenLightOff turn off kitchen lamp
+KitchenLightOff turn off my kitchen lamp
+KitchenLightOff turn off the kitchen lamp
+KitchenLightOff turn the kitchen lamp off
+KitchenLightOff turn the kitchen light off
+KitchenLightOff turn my kitchen lamp off
+KitchenLightOff turn my kitchen light off
+KitchenLightOff kitchen light off
+KitchenLightOff kitchen lamp off
+KitchenLightOff make the kitchen lamp off
+KitchenLightOff make the kitchen light off
+KitchenLightOff make my kitchen lamp off
+KitchenLightOff make my kitchen light off
+KitchenLightOff make kitchen lamp off
+KitchenLightOff make kitchen light off
+KitchenLightOff switch off the kitchen light
+KitchenLightOff switch off the kitchen lamp
+KitchenLightOff switch off kitchen light
+KitchenLightOff switch off kitchen lamp
+KitchenLightOff dark my kitchen
+KitchenLightOff dark the kitchen
+KitchenLightOff make kitchen dark
+KitchenLightOff i don't want light on my kitchen
+KitchenLightOff i don't like bright kitchen
+
+
+
+BathroomLightOn on bathroom light
+BathroomLightOn on my bathroom light
+BathroomLightOn on the bathroom light
+BathroomLightOn on the bathroom lamp
+BathroomLightOn on my bathroom lamp
+BathroomLightOn turn on bathroom light
+BathroomLightOn turn on my bathroom light
+BathroomLightOn turn on the bathroom light
+BathroomLightOn on bathroom lamp
+BathroomLightOn turn on bathroom lamp
+BathroomLightOn turn on my bathroom lamp
+BathroomLightOn turn on the bathroom lamp
+BathroomLightOn turn the bathroom lamp on
+BathroomLightOn turn the bathroom light on
+BathroomLightOn turn my bathroom lamp on
+BathroomLightOn turn my bathroom light on
+BathroomLightOn bathroom light on
+BathroomLightOn bathroom lamp on
+BathroomLightOn make the bathroom lamp on
+BathroomLightOn make the bathroom light on
+BathroomLightOn make my bathroom lamp on
+BathroomLightOn make my bathroom light on
+BathroomLightOn make bathroom lamp on
+BathroomLightOn make bathroom light on
+BathroomLightOn switch on the bathroom light
+BathroomLightOn switch on the bathroom lamp
+BathroomLightOn switch on my bathroom light
+BathroomLightOn switch on my bathroom lamp
+BathroomLightOn switch on bathroom light
+BathroomLightOn switch on bathroom lamp
+BathroomLightOn light my bathroom
+BathroomLightOn light the bathroom
+BathroomLightOn bright my bathroom
+BathroomLightOn bright the bathroom
+BathroomLightOn make bathroom bright
+BathroomLightOn make the bathroom bright
+BathroomLightOn make my bathroom bright
+BathroomLightOn i want light on my bathroom
+BathroomLightOn i want light on the bathroom
+BathroomLightOn i want to go bathroom now
+BathroomLightOn i wanna bath now
+BathroomLightOn i will bath now
+
+
+BathroomLightOff off bathroom light
+BathroomLightOff off my bathroom light
+BathroomLightOff off the bathroom light
+BathroomLightOff off the bathroom lamp
+BathroomLightOff off my bathroom lamp
+BathroomLightOff turn off bathroom light
+BathroomLightOff turn off my bathroom light
+BathroomLightOff turn off the bathroom light
+BathroomLightOff off bathroom lamp
+BathroomLightOff turn off bathroom lamp
+BathroomLightOff turn off my bathroom lamp
+BathroomLightOff turn off the bathroom lamp
+BathroomLightOff turn the bathroom lamp off
+BathroomLightOff turn the bathroom light off
+BathroomLightOff turn my bathroom lamp off
+BathroomLightOff turn my bathroom light off
+BathroomLightOff bathroom light off
+BathroomLightOff bathroom lamp off
+BathroomLightOff make the bathroom lamp off
+BathroomLightOff make the bathroom light off
+BathroomLightOff make my bathroom lamp off
+BathroomLightOff make my bathroom light off
+BathroomLightOff make bathroom lamp off
+BathroomLightOff make bathroom light off
+BathroomLightOff switch off the bathroom light
+BathroomLightOff switch off the bathroom lamp
+BathroomLightOff switch off my bathroom light
+BathroomLightOff switch off my bathroom lamp
+BathroomLightOff switch off bathroom light
+BathroomLightOff switch off bathroom lamp
+BathroomLightOff dark my bathroom
+BathroomLightOff dark the bathroom
+BathroomLightOff dark my bathroom
+BathroomLightOff dark the bathroom
+BathroomLightOff make bathroom dark
+BathroomLightOff make the bathroom dark
+BathroomLightOff make my bathroom dark
+
+
+BedroomFanOn on bedroom fan
+BedroomFanOn turn on bedroom fan
+BedroomFanOn turn on my bedroom fan
+BedroomFanOn turn on the bedroom fan
+BedroomFanOn on bedroom fan
+BedroomFanOn turn on bedroom fan
+BedroomFanOn turn on my bedroom fan
+BedroomFanOn turn on the bedroom fan
+BedroomFanOn turn the bedroom fan on
+BedroomFanOn turn the bedroom fan on
+BedroomFanOn turn my bedroom fan on
+BedroomFanOn turn my bedroom fan on
+BedroomFanOn bedroom fan on
+BedroomFanOn bedroom fan on
+BedroomFanOn make the bedroom fan on
+BedroomFanOn make the bedroom fan on
+BedroomFanOn make my bedroom fan on
+BedroomFanOn make my bedroom fan on
+BedroomFanOn make bedroom fan on
+BedroomFanOn make bedroom fan on
+BedroomFanOn switch on the bedroom fan
+BedroomFanOn switch on the bedroom fan
+BedroomFanOn switch on my bedroom fan
+BedroomFanOn switch on my bedroom fan
+BedroomFanOn switch on bedroom fan
+BedroomFanOn switch on bedroom fan
+BedroomFanOn cool my bedroom
+BedroomFanOn cool the bedroom
+BedroomFanOn cool my bedroom
+BedroomFanOn cool the bedroom
+BedroomFanOn make bedroom cool
+BedroomFanOn i am feeling hot
+BedroomFanOn i want cool bedroom
+
+
+BedroomFanOff off bedroom fan
+BedroomFanOff turn off bedroom fan
+BedroomFanOff turn off my bedroom fan
+BedroomFanOff turn off the bedroom fan
+BedroomFanOff off bedroom fan
+BedroomFanOff turn off bedroom fan
+BedroomFanOff turn off my bedroom fan
+BedroomFanOff turn off the bedroom fan
+BedroomFanOff turn the bedroom fan off
+BedroomFanOff turn the bedroom fan off
+BedroomFanOff turn my bedroom fan off
+BedroomFanOff turn my bedroom fan off
+BedroomFanOff bedroom fan off
+BedroomFanOff bedroom fan off
+BedroomFanOff make the bedroom fan off
+BedroomFanOff make the bedroom fan off
+BedroomFanOff make my bedroom fan off
+BedroomFanOff make my bedroom fan off
+BedroomFanOff make bedroom fan off
+BedroomFanOff make bedroom fan off
+BedroomFanOff switch off the bedroom fan
+BedroomFanOff switch off the bedroom fan
+BedroomFanOff switch off my bedroom fan
+BedroomFanOff switch off my bedroom fan
+BedroomFanOff switch off bedroom fan
+BedroomFanOff switch off bedroom fan
+BedroomFanOff cool my bedroom
+BedroomFanOff make bedroom hot
+BedroomFanOff make my bedroom hot
+BedroomFanOff make the bedroom hot
+BedroomFanOff i am feeling cold
+BedroomFanOff i want hot bedroom
